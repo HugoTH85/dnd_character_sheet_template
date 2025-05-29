@@ -1,0 +1,21 @@
+---
+title: "DnD_Character_Sheet_Template"
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+---
+
+<div class="phb">
+
+# This is a Quarto website
+
+### To learn more about Quarto websites visit :
+
+<https://quarto.org/docs/websites>
+
+![](./resources/DnD-Symbole.png){width=80%}
+
+**Enjoy ! :)**
+
+</div>
